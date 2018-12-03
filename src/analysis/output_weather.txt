@@ -1,0 +1,9 @@
+Number of uber rides weather status 2015
+[('Rain', 178896.82926829267), ('normal', 164886.52)]
+Number of uber rides weather status 2014
+[('Rain', 15355.117647058823), ('Snow', 12675.0), ('normal', 11540.036363636364)]
+Number of taxi rides weather status 2015
+[('Rain', 167224.0487804878), ('normal', 168822.34)]
+Number of taxi rides weather status 2014
+[('Rain', 192365.5294117647), ('Snow', 196906.0), ('normal', 175965.34545454546)]
+
