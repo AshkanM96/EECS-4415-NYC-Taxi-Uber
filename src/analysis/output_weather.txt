@@ -1,0 +1,4 @@
+Number of uber rides weather status
+[('normal', 84562.17142857143), ('Rain', 104757.92), ('Snow', 12675.0)]
+Number of taxi rides weather status
+[('Snow', 196906.0), ('normal', 172563.91428571427), ('Rain', 178621.52)]
